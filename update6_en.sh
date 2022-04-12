@@ -51,7 +51,7 @@ if [ $dsize -lt 10240 ];then
 fi
 unzip -o /tmp/panel.zip -d $setup_path/server/ > /dev/null
 rm -f /tmp/panel.zip
-wget -T 5 -O /tmp/chinese.zip https://gitee.com/gacjie/aapanel_chinese/raw/master/aapanel_chinese-6.8.21.zip
+wget -T 5 -O /tmp/chinese.zip https://raw.githubusercontent.com/gacjie/aapanel_chinese/main/aapanel_chinese-6.8.21.zip
 unzip -o /tmp/chinese.zip -d $setup_path/server/ > /dev/null
 rm -f /tmp/chinese.zip
 cd $setup_path/server/panel/
