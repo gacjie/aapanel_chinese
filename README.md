@@ -6,7 +6,7 @@
 #### 降级命令
 由于汉化包更新太过麻烦，因此一般都是抽空更新。
 如果有新版本无法使用，可用本命令降级到6.8.21版本。           
-curl https://gitee.com/gacjie/aapanel_chinese/raw/master/update6_en.sh|bash        
+curl https://raw.githubusercontent.com/gacjie/aapanel_chinese/main/update6_en.sh|bash        
 
 注意：降级脚本已经增加安装中文包功能，因此无需使用安装教程再次安装。
 
@@ -23,5 +23,5 @@ curl https://gitee.com/gacjie/aapanel_chinese/raw/master/update6_en.sh|bash
 QQ交流群：365208828     
 TG交流群：t.me/btfans    
 #### 演示图片    
- ![aapc1.png](https://gitee.com/gacjie/aapanel_chinese/raw/master/aapc1.png)   
- ![aapc2.png](https://gitee.com/gacjie/aapanel_chinese/raw/master/aapc2.png)   
+ ![aapc1.png](https://raw.githubusercontent.com/gacjie/aapanel_chinese/main/aapc1.png)   
+ ![aapc2.png](https://raw.githubusercontent.com/gacjie/aapanel_chinese/main/aapc2.png)   
