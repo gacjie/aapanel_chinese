@@ -1,0 +1,36 @@
+{% extends "layout.html" %}
+{% block content %}
+  <div class="main-content pb55" style="min-height: 525px;">
+    <div class="container-fluid">
+      <div class="site_table_view bgw mtb15 pd15">
+        <div style="padding: 40px;text-align: center;vertical-align: middle;">
+          <div class="info-title-tips">
+            <p><span class="glyphicon glyphicon-alert" style="color: #f39c12; margin-right: 10px;"></span>宝塔面板许多功能都依赖于官网，绑定仅限于为您提供更好的面板服务体验，不涉及您服务器任何敏感信息，请放心使用。</p>
+        </div>
+          <p style="font-size: 18px;margin-top: 38px;">绑定宝塔帐号</p>
+          <div class="libLogin pd20">
+            <div class="bt-form text-center">
+              <div class="line"><input class="bt-input-text" type="text" name="username" placeholder="手机号" /></div>
+              <div class="line"><input class="bt-input-text" type="password" name="password" placeholder="密码" /></div>
+              <div class="line verifyCodeView"><input class="bt-input-text" type="text" name="verifyCode" placeholder="验证码" /><div class="pull-right"><span class="getVerifyCode">获取验证码</span></div></div>
+              <div class="line" style="margin-top: 15px;"><input class="login-button" value="登录" type="button" /></div>
+              <p class="text-right"><a class="btlink" href="https://www.bt.cn/register.html" target="_blank">未有账号，免费注册</a></p>
+            </div>
+            <ul class="help-info-text" style="text-align: left;">
+              <li>为了您能更好的体验面板功能，请先绑定堡塔账号；</li>
+							<li>单个宝塔帐号支持多台服务器绑定；</li>
+							<li>绑定帐号没有接管服务器的功能权限，请放心使用；</li>
+              <li>帐号绑定过程中遇到问题请联系客服处理；</li>
+              <li>客服QQ：800176556，客服电话：0769-23030556</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
+{% block scripts %}
+<script type="text/javascript">
+  new BindAccount().init();
+</script>
+{% endblock %}
