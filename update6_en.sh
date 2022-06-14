@@ -43,7 +43,7 @@ if [ "$version" = '' ];then
 	version='6.8.22'
 fi
 version='6.8.21'
-wget -T 5 -O /tmp/panel.zip https://raw.githubusercontent.com/gacjie/aapanel_chinese/main/aapanel-6.8.21.zip
+wget -T 5 -O /tmp/panel.zip https://raw.githubusercontent.com/gacjie/aapanel_chinese/main/aaPanel-6.8.21.zip
 dsize=$(du -b /tmp/panel.zip|awk '{print $1}')
 if [ $dsize -lt 10240 ];then
 	echo "Failed to get update package, please update or contact aaPanel Operation"
