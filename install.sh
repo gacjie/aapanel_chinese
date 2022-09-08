@@ -9,3 +9,4 @@ wget -O ${panel_Path}/BTPanel/static/language/English/template.json  ${download_
 wget -O ${panel_Path}/BTPanel/static/language/English/public.json  ${download_Url}/BTPanel/static/language/English/public.json
 wget -O ${panel_Path}/BTPanel/static/language/English/log.json  ${download_Url}/BTPanel/static/language/English/log.json
 wget -O ${panel_Path}/BTPanel/static/language/English/lan.js  ${download_Url}/BTPanel/static/language/English/lan.js
+/etc/init.d/bt restart
