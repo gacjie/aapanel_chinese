@@ -16,10 +16,10 @@ PS：正常使用6.8.21汉化版的不建议更新
 为提高更新频率，编写汉化脚本。     
     
 #### 一键安装    
-     
-curl https://raw.githubusercontent.com/gacjie/aapanel_chinese/main/install.sh|bash   
-     
-注意：此脚本为汉化包安装脚本，降级脚本暂不提供。    
+       
+curl https://download.btpanel.cm/aapanel_chinese/install.sh|bash    
+    
+注意：此脚本为汉化包安装脚本，降级脚本暂不提供。因gitee限制以及github网络问题，取消git版本停止维护，以后git仅用于公开代码。     
      
 #### 手动安装    
 1.  下载文件包解压文件    
