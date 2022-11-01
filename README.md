@@ -8,7 +8,8 @@
 PS：正常使用6.8.21汉化版的不建议更新    
 
 #### 演示图片    
- ![aapanel_chinese.jpg](https://raw.githubusercontent.com/gacjie/aapanel_chinese/main/aapanel_chinese.jpg) 
+ ![simplified_chinese.jpg](https://raw.githubusercontent.com/gacjie/aapanel_chinese/main/simplified_chinese.jpg)   
+  ![traditional_chinese.jpg](https://raw.githubusercontent.com/gacjie/aapanel_chinese/main/traditional_chinese.jpg)   
 
 #### 目录说明
 /english   英文原版文件    
