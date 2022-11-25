@@ -27,10 +27,9 @@ PS：正常使用6.8.21汉化版的不建议更新
 
 #### 一键安装    
 
-```shell-session
-wget -O aapanel_chinese.sh http://download.btpanel.cm/tools/aapanel_chinese.sh && bash aapanel_chinese.sh
-``` 
-注意：执行完请清空浏览器缓存。
+由于被人举报，因此一键安装脚本将不在提供。
+宝塔工具箱系列脚本以及官网删除声明
+https://www.baota.me/post-206.html
 
 #### 技术交流      
      
