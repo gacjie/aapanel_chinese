@@ -21,7 +21,7 @@ PS：正常使用6.8.21汉化版的不建议更新
 [新蓝白配色清新宝塔面板模板美化主题](https://www.baota.me/post-233.html) 
 
 #### 命令行安装
-以6.8.27版本为例，其他版本请复制[发行版](https://github.com/gacjie/aapanel_chinese/releases) 内支持版本的下载链接替换教程链接。  
+以6.8.27中文简体版本为例，其他版本请复制[发行版](https://github.com/gacjie/aapanel_chinese/releases) 内支持版本的下载链接替换教程链接。  
 下载资源包   
 ```shell-session
 wget -O aapanel_chinese.zip https://github.com/gacjie/aapanel_chinese/releases/download/6.8.27/aapanel_simplified_chinese_6827.zip
