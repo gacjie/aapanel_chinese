@@ -16,8 +16,9 @@ PS：正常使用6.8.21汉化版的不建议更新
 /simplified_chinese   中文简体汉化文件     
 /traditional_chinese   中文繁体汉化文件      
      
-#### 版本降级（可选）
-https://www.baota.me/post-264.html
+#### 相关文章
+[宝塔海外版aapanel升级(降级)指定版本](https://www.baota.me/post-264.html)     
+[新蓝白配色清新宝塔面板模板美化主题](https://www.baota.me/post-233.html) 
 
 #### 命令行安装
 以6.8.27版本为例,请在 [发行版](https://github.com/gacjie/aapanel_chinese/releases) 内查看支持的版本。   
