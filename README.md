@@ -39,6 +39,11 @@ unzip -o aapanel_chinese.zip -d /www/server/
 #### 技术交流      
      
 技术教程：www.baota.me     
-QQ交流群：699927761      
-TG交流群：t.me/btfans    
+QQ交流群：682796000      
+
+#### 赞助推广
+[最佳亚洲CDN、边缘和安全解决方案 - 腾讯 EdgeOne ](https://edgeone.ai/?from=github)  
+![edgeone.jpg](https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png)  
+
+
  
