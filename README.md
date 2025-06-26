@@ -37,7 +37,7 @@ unzip -o aapanel_chinese.zip -d /www/server/
 最后还需要手动清理浏览器缓存     
 
 #### 赞助推广
-[最佳亚洲CDN、边缘和安全解决方案 - 腾讯 EdgeOne ](https://edgeone.ai/?from=github)  
+[Best Asian CDN, Edge, and Secure Solutions - Tencent EdgeOne](https://edgeone.ai/?from=github)  
 ![edgeone.jpg](https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png)  
 
 
