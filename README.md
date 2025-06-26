@@ -34,12 +34,7 @@ unzip -o aapanel_chinese.zip -d /www/server/
 ```shell-session
 /etc/init.d/bt restart
 ```
-最后还需要手动清理浏览器缓存
-
-#### 技术交流      
-     
-技术教程：www.baota.me     
-QQ交流群：682796000      
+最后还需要手动清理浏览器缓存     
 
 #### 赞助推广
 [最佳亚洲CDN、边缘和安全解决方案 - 腾讯 EdgeOne ](https://edgeone.ai/?from=github)  
